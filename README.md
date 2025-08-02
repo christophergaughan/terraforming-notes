@@ -1,8 +1,8 @@
-# Terraforming Notes 🪐
+# Terraforming Notes 
 
 This repository contains clean, modular, and well-documented Terraform examples and references. It serves as a working knowledge base for Infrastructure-as-Code (IaC) using Terraform across AWS and cloud-native environments.
 
-## 📦 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -73,7 +73,7 @@ terraform plan
 terraform apply
 ```
 
-## 🧠 Why This Repo?
+## Why This Repo?
 
 This repo is intended for:
 - Cloud engineers building IaC skills
@@ -87,6 +87,6 @@ This repo is intended for:
 - [ ] Add GitHub Actions CI/CD example for Terraform
 - [ ] Add IAM and security-focused Terraform configurations
 
-## 📜 License
+## License
 
 MIT License
